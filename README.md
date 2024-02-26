@@ -45,4 +45,4 @@ while True:
 ![307230226-9709b736-28c9-46de-a7a3-7a6bfa1671c9](https://github.com/nivetharajaa/2b_SLIDING_WINDOW_PROTOCOL/assets/120543388/223dd1a1-2c94-4a27-99a6-3cb84d1164f7)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform stop and wait protocol was successfully executed.
